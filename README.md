@@ -1,0 +1,2 @@
+# git-practice-assignment
+In this assignment, you will familiarize yourself with two common version control workflows using Git and GitHub - a centralized workflow, and a forking workflow. You will create a local repository, and a remote repository on GitHub for your own project and practice pushing and pulling to/from this remote repository. You will also contribute to another student's project by "forking" their repository, making changes, and issuing a "pull request" to them to incorporate your changes.
